@@ -1,0 +1,32 @@
+{
+  "app": {
+    "title": "示例应用",
+    "nav": {
+      "dashboard": "仪表盘",
+      "market": "市场",
+      "signIn": "登录",
+      "signOut": "退出登录"
+    }
+  },
+  "dashboard": {
+    "title": "仪表盘",
+    "welcome": "欢迎使用！当前为中文（中国）界面。"
+  },
+  "market": {
+    "title": "市场：{symbol}",
+    "price": "价格",
+    "sample": "示例：¥{amount}"
+  },
+  "auth": {
+    "signInTitle": "登录",
+    "email": "邮箱",
+    "password": "密码",
+    "submit": "登录",
+    "or": "或",
+    "magicLink": "发送登录链接到邮箱"
+  },
+  "common": {
+    "currency": "人民币",
+    "hello": "你好"
+  }
+}
